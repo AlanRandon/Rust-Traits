@@ -1,0 +1,7 @@
+/target
+**/*lock*
+/package.json
+**/*.js
+/node_modules
+/.replit
+/replit.nix
